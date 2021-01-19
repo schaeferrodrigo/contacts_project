@@ -1,41 +1,12 @@
-## Welcome to Contacts Project
+## Welcome to GitHub Pages
 
-This Agenda of contacts for scientific purposes.
+You can use the [editor on GitHub](https://github.com/schaeferrodrigo/contacts_project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Markdown
 
-### Initial screen
-
-**Currently options**
-
-- CREATE a new table
-- INSERT a new entry
-- UPDATE an entry
-- SEARCH an entry
--  CONFIG (?)
-- EXIT to close   
-
-**New possibilities**
-
-- Statistic (visualization)
-
-**After**
-- Create an user
-
-### CREATE a table
-
-Generate a table with the following fields:
-
-'Name','Surname','email','Phone', 'Institution', 'City','Country','Field_Research','Position', '+info', 'ORCID number'
-
-**New fields**
-
-- key words
-- last paper (?)
-_
-
-
-
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
